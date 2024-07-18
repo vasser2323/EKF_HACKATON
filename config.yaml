@@ -1,0 +1,9 @@
+model:
+  model_file_path: "weights/multiclass.pt"
+  shkaf_model_file_path: "weights/shkaf.pt"
+
+data:
+  dataframe_path: "data/base.xlsx"
+  abbreviations_path: "data/abbreviations.txt"
+  classes_path: "data/classes.txt"
+  user_guide_path: "data/user-guide.txt"
